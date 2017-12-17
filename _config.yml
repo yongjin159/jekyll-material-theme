@@ -51,3 +51,5 @@ plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-minifier
+
+theme: jekyll-theme-cayman
