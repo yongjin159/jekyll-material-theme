@@ -8,6 +8,8 @@ image: /assets/images/startup.jpg
 
 https://youtu.be/P6xYY4dtmUw , https://youtu.be/7S7K0Xl9CR0 : presentation video uploaded!!!!!!!
 https://yongjin159.gitgub.io/피아노1.jpeg
+https://yongjin159.gitgub.io/피아노2.jpeg
+https://yongjin159.gitgub.io/피아노3.jpeg
 https://yongjin159.gitgub.io/piano최종본.zip
 https://yongjin159.gitgub.io/오픈소스 시연 발표.pptx
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
